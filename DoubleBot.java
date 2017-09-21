@@ -24,6 +24,6 @@ public class DoubleBot extends Robot
     public void doubleBeepers()
     {
         // put your code here
-        
+        move();
     }
 }
