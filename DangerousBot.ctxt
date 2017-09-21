@@ -1,8 +1,16 @@
 #BlueJ class context
 comment0.target=DangerousBot
 comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
-comment1.params=st\ av\ dir\ numBeepers
-comment1.target=DangerousBot(int,\ int,\ Direction,\ int)
+comment1.params=
+comment1.target=void\ choosePile()
 comment2.params=
-comment2.target=void\ choosePile()
-numComments=3
+comment2.target=void\ pickUpFirstPile()
+comment3.params=
+comment3.target=void\ moveToRoom()
+comment4.params=
+comment4.target=void\ pickPileInRoom()
+comment5.params=
+comment5.target=void\ returnToMiddle()
+comment6.params=
+comment6.target=void\ turnRight()
+numComments=7

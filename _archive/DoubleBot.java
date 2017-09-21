@@ -1,4 +1,4 @@
-package KarelLabFive;
+
 
 
 import kareltherobot.*;
@@ -9,24 +9,21 @@ import kareltherobot.*;
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class Data extends Robot
+public class DoubleBot extends Robot
 {
     // instance variables - replace the example below with your own
-    private int street;
     public int beepers;
 
     /**
      * Constructor for objects of class Template
      */
-     public Data(int st, int av, Direction dir, int numBeepers) {
+     public DoubleBot(int st, int av, Direction dir, int numBeepers) {
         super(st, av, dir, numBeepers);
-        street = st;
-        beepers = numBeepers;
     }
 
-    public int getStreet()
+    public void doubleBeepers()
     {
         // put your code here
-        return this.street;
+        move();
     }
 }

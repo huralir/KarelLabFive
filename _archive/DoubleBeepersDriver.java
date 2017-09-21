@@ -1,5 +1,3 @@
-package KarelLabFive;
-
 
 /**
    @Author:
@@ -9,17 +7,18 @@ package KarelLabFive;
 import kareltherobot.*;
 import java.awt.Color;
 
-public class DefendDemocracyDriver implements Directions
+public class DoubleBeepersDriver implements Directions
 {
     public static void main(String args[])  {
-        DemocracyBot karel = new DemocracyBot(3, 1, East, 0);  
-        karel.fixBallots();
+        DoubleBot karel = new DoubleBot(1, 1, East, -1);  
+        karel.doubleBeepers();
         karel.turnOff();  
     } 
 
     static {
-        World.reset(); 
-        World.readWorld("worlds/hangingchad.kwld"); 
+        World.reset();
+        World.setSize(3,4);
+        World.placeBeepers(1,2,(int)(Math.random() * 50));
         World.setBeeperColor(Color.black);
         World.setStreetColor(Color.gray);
         World.setNeutroniumColor(Color.black);
