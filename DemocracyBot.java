@@ -1,4 +1,4 @@
-package KarelLabFive;
+ 
 
 
 import kareltherobot.*; 
@@ -14,8 +14,16 @@ public class DemocracyBot extends Robot
     }
     
     public void fixBallots() {
+        move();
         
     }
-   
+    public void turnRight() {
+        turnLeft();
+        turnLeft();
+        turnLeft();
+    }
+    public void checkRoom() {
+        
+    }
 }
 

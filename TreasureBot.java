@@ -1,4 +1,4 @@
-package KarelLabFive;
+ 
 
 
 import kareltherobot.*; 
@@ -74,4 +74,9 @@ public class TreasureBot extends Robot
         turnLeft();
         turnLeft();
     }
+    public void cheese() {
+        turnLeft();
+        turnLeft(); 
+    }
 }
+
