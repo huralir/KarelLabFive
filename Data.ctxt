@@ -1,11 +1,14 @@
 #BlueJ class context
 comment0.target=Data
 <<<<<<< HEAD
+<<<<<<< HEAD
 comment0.text=\n\ Write\ a\ description\ of\ class\ Template\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
 comment1.params=
 comment1.target=int\ getStreet()
 numComments=2
 =======
+=======
+>>>>>>> 70c9d1ee7408ba4a73a7047083f3e6f7e391c982
 comment0.text=\r\n\ Write\ a\ description\ of\ class\ Template\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
 comment1.params=st\ av\ dir\ numBeepers
 comment1.target=Data(int,\ int,\ Direction,\ int)
@@ -13,4 +16,7 @@ comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Template\r\n
 comment2.params=
 comment2.target=int\ getStreet()
 numComments=3
+<<<<<<< HEAD
+>>>>>>> 70c9d1ee7408ba4a73a7047083f3e6f7e391c982
+=======
 >>>>>>> 70c9d1ee7408ba4a73a7047083f3e6f7e391c982
