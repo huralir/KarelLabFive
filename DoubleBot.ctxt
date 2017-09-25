@@ -1,14 +1,17 @@
 #BlueJ class context
 comment0.target=DoubleBot
 comment0.text=\r\n\ Write\ a\ description\ of\ class\ Template\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
-comment1.params=
-comment1.target=void\ thing()
+comment1.params=st\ av\ dir\ numBeepers
+comment1.target=DoubleBot(int,\ int,\ Direction,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Template\r\n
 comment2.params=
-comment2.target=void\ doubleBeepers()
+comment2.target=void\ thing()
 comment3.params=
-comment3.target=void\ pickUpPile()
+comment3.target=void\ doubleBeepers()
 comment4.params=
-comment4.target=void\ putDownPile()
+comment4.target=void\ pickUpPile()
 comment5.params=
-comment5.target=void\ putDownDoublePile()
-numComments=6
+comment5.target=void\ putDownPile()
+comment6.params=
+comment6.target=void\ putDownDoublePile()
+numComments=7
