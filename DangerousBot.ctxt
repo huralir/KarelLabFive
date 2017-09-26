@@ -2,6 +2,7 @@
 comment0.target=DangerousBot
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 comment0.text=\n\ @author\ \:\ \ D.\ Appel\n
 comment1.params=
 comment1.target=void\ choosePile()
@@ -15,16 +16,19 @@ comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
 comment1.params=st\ av\ dir\ numBeepers
 comment1.target=DangerousBot(int,\ int,\ Direction,\ int)
 >>>>>>> 70c9d1ee7408ba4a73a7047083f3e6f7e391c982
+=======
+comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
+comment1.params=
+comment1.target=void\ choosePile()
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 comment2.params=
-comment2.target=void\ choosePile()
+comment2.target=void\ pickUpFirstPile()
 comment3.params=
-comment3.target=void\ pickUpFirstPile()
+comment3.target=void\ moveToRoom()
 comment4.params=
-comment4.target=void\ moveToRoom()
+comment4.target=void\ pickPileInRoom()
 comment5.params=
-comment5.target=void\ pickPileInRoom()
+comment5.target=void\ returnToMiddle()
 comment6.params=
-comment6.target=void\ returnToMiddle()
-comment7.params=
-comment7.target=void\ turnRight()
-numComments=8
+comment6.target=void\ turnRight()
+numComments=7

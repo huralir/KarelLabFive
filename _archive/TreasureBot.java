@@ -1,5 +1,3 @@
-package _archive;
-
 
 import kareltherobot.*; 
 

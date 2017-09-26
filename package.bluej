@@ -16,6 +16,7 @@ dependency5.to=Data
 dependency5.type=UsesDependency
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 objectbench.height=101
 objectbench.width=776
 =======
@@ -25,26 +26,33 @@ editor.fx.0.height=738
 editor.fx.0.width=816
 editor.fx.0.x=552
 editor.fx.0.y=101
+=======
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 objectbench.height=93
 objectbench.width=760
->>>>>>> 70c9d1ee7408ba4a73a7047083f3e6f7e391c982
 package.divider.horizontal=0.6
-package.divider.vertical=0.8007380073800738
-package.editor.height=427
-package.editor.width=674
+package.divider.vertical=0.8003992015968064
+package.editor.height=394
+package.editor.width=657
 package.editor.x=40
 package.editor.y=75
 package.frame.height=600
 package.frame.width=800
 package.numDependencies=5
-package.numTargets=12
+package.numTargets=11
 package.showExtends=true
 package.showUses=true
+project.charset=windows-1252
 readme.height=58
 readme.name=@README
 readme.width=47
 readme.x=10
 readme.y=10
+<<<<<<< HEAD
 target1.height=50
 target1.name=TreasureBot
 target1.naviview.expanded=true
@@ -64,50 +72,56 @@ target1.y=230
 target1.x=260
 target1.y=230
 >>>>>>> 70c9d1ee7408ba4a73a7047083f3e6f7e391c982
+=======
+target1.height=62
+target1.name=KarelLabFive
+target1.type=PackageTarget
+target1.width=90
+target1.x=120
+target1.y=370
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 target10.height=50
-target10.name=TreasureHuntDriver
-target10.naviview.expanded=true
+target10.name=DataRunner
 target10.showInterface=false
 target10.type=ClassTarget
 target10.typeParameters=
-target10.width=150
-target10.x=150
-target10.y=220
-target11.height=62
-target11.name=_archive
-target11.type=PackageTarget
-target11.width=80
+target10.width=100
+target10.x=10
+target10.y=370
+target11.height=50
+target11.name=DefendDemocracyDriver
+target11.naviview.expanded=true
+target11.showInterface=false
+target11.type=ClassTarget
+target11.typeParameters=
+target11.width=180
 target11.x=10
-target11.y=210
-target12.height=50
-target12.name=DataRunner
-target12.showInterface=false
-target12.type=ClassTarget
-target12.typeParameters=
-target12.width=100
-target12.x=240
-target12.y=370
+target11.y=310
 target2.height=50
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 target2.name=DangerousTaskDriver
+=======
+target2.name=TreasureBot
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 target2.naviview.expanded=true
 target2.showInterface=false
 target2.type=ClassTarget
 target2.typeParameters=
-target2.width=160
-target2.x=290
-target2.y=130
+target2.width=100
+target2.x=260
+target2.y=230
 target3.height=50
-target3.name=DemocracyBot
-target3.naviview.expanded=true
+target3.name=DoubleBot
 target3.showInterface=false
 target3.type=ClassTarget
 target3.typeParameters=
-target3.width=120
-target3.x=480
-target3.y=270
+target3.width=90
+target3.x=150
+target3.y=10
 target4.height=50
+<<<<<<< HEAD
 target4.name=DangerousBot
 =======
 target2.name=DoubleBot
@@ -167,10 +181,17 @@ target5.y=360
 target6.height=50
 target6.name=DefendDemocracyDriver
 =======
+=======
+target4.name=DoubleBeepersDriver
+target4.showInterface=false
+target4.type=ClassTarget
+target4.typeParameters=
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 target4.width=160
-target4.x=10
-target4.y=130
+target4.x=70
+target4.y=70
 target5.height=50
+<<<<<<< HEAD
 =======
 target4.width=160
 target4.x=10
@@ -178,23 +199,31 @@ target4.y=130
 target5.height=50
 >>>>>>> 70c9d1ee7408ba4a73a7047083f3e6f7e391c982
 target5.name=DemocracyBot
+=======
+target5.name=DangerousTaskDriver
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 target5.naviview.expanded=true
 target5.showInterface=false
 target5.type=ClassTarget
 target5.typeParameters=
-target5.width=120
-target5.x=270
-target5.y=310
+target5.width=160
+target5.x=10
+target5.y=130
 target6.height=50
+<<<<<<< HEAD
 target6.name=DangerousBot
 <<<<<<< HEAD
 >>>>>>> 70c9d1ee7408ba4a73a7047083f3e6f7e391c982
 =======
 >>>>>>> 70c9d1ee7408ba4a73a7047083f3e6f7e391c982
+=======
+target6.name=DemocracyBot
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 target6.naviview.expanded=true
 target6.showInterface=false
 target6.type=ClassTarget
 target6.typeParameters=
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 target6.width=180
@@ -212,12 +241,18 @@ target7.y=350
 target6.width=110
 target6.x=260
 target6.y=130
+=======
+target6.width=120
+target6.x=270
+target6.y=310
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 target7.height=50
-target7.name=TreasureHuntDriver
+target7.name=DangerousBot
 target7.naviview.expanded=true
 target7.showInterface=false
 target7.type=ClassTarget
 target7.typeParameters=
+<<<<<<< HEAD
 target7.width=150
 target7.x=10
 target7.y=230
@@ -225,21 +260,34 @@ target7.y=230
 >>>>>>> 70c9d1ee7408ba4a73a7047083f3e6f7e391c982
 =======
 >>>>>>> 70c9d1ee7408ba4a73a7047083f3e6f7e391c982
+=======
+target7.width=110
+target7.x=260
+target7.y=130
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 target8.height=50
-target8.name=DoubleBot
+target8.name=Data
 target8.showInterface=false
 target8.type=ClassTarget
 target8.typeParameters=
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 target8.width=90
 target8.x=220
 target8.y=10
+=======
+target8.width=80
+target8.x=170
+target8.y=190
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 target9.height=50
-target9.name=DoubleBeepersDriver
+target9.name=TreasureHuntDriver
+target9.naviview.expanded=true
 target9.showInterface=false
 target9.type=ClassTarget
 target9.typeParameters=
+<<<<<<< HEAD
 target9.width=160
 target9.x=50
 target9.y=80
@@ -259,3 +307,8 @@ target9.y=370
 >>>>>>> 70c9d1ee7408ba4a73a7047083f3e6f7e391c982
 =======
 >>>>>>> 70c9d1ee7408ba4a73a7047083f3e6f7e391c982
+=======
+target9.width=150
+target9.x=10
+target9.y=230
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
