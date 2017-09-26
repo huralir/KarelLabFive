@@ -17,6 +17,7 @@ dependency5.type=UsesDependency
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 objectbench.height=101
 objectbench.width=776
 =======
@@ -27,10 +28,15 @@ editor.fx.0.width=816
 editor.fx.0.x=552
 editor.fx.0.y=101
 =======
+=======
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
 editor.fx.0.y=0
+<<<<<<< HEAD
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
+=======
 >>>>>>> parent of 63afe63... Lab 5 UPDATE
 objectbench.height=93
 objectbench.width=760
@@ -53,6 +59,7 @@ readme.width=47
 readme.x=10
 readme.y=10
 <<<<<<< HEAD
+<<<<<<< HEAD
 target1.height=50
 target1.name=TreasureBot
 target1.naviview.expanded=true
@@ -73,12 +80,17 @@ target1.x=260
 target1.y=230
 >>>>>>> 70c9d1ee7408ba4a73a7047083f3e6f7e391c982
 =======
+=======
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 target1.height=62
 target1.name=KarelLabFive
 target1.type=PackageTarget
 target1.width=90
 target1.x=120
 target1.y=370
+<<<<<<< HEAD
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
+=======
 >>>>>>> parent of 63afe63... Lab 5 UPDATE
 target10.height=50
 target10.name=DataRunner
@@ -101,7 +113,11 @@ target2.height=50
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 target2.name=DangerousTaskDriver
+=======
+target2.name=TreasureBot
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 =======
 target2.name=TreasureBot
 >>>>>>> parent of 63afe63... Lab 5 UPDATE
@@ -121,6 +137,7 @@ target3.width=90
 target3.x=150
 target3.y=10
 target4.height=50
+<<<<<<< HEAD
 <<<<<<< HEAD
 target4.name=DangerousBot
 =======
@@ -193,12 +210,22 @@ target4.y=70
 target5.height=50
 <<<<<<< HEAD
 =======
+=======
+target4.name=DoubleBeepersDriver
+target4.showInterface=false
+target4.type=ClassTarget
+target4.typeParameters=
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 target4.width=160
-target4.x=10
-target4.y=130
+target4.x=70
+target4.y=70
 target5.height=50
+<<<<<<< HEAD
 >>>>>>> 70c9d1ee7408ba4a73a7047083f3e6f7e391c982
 target5.name=DemocracyBot
+=======
+target5.name=DangerousTaskDriver
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 =======
 target5.name=DangerousTaskDriver
 >>>>>>> parent of 63afe63... Lab 5 UPDATE
@@ -211,6 +238,7 @@ target5.x=10
 target5.y=130
 target6.height=50
 <<<<<<< HEAD
+<<<<<<< HEAD
 target6.name=DangerousBot
 <<<<<<< HEAD
 >>>>>>> 70c9d1ee7408ba4a73a7047083f3e6f7e391c982
@@ -219,10 +247,14 @@ target6.name=DangerousBot
 =======
 target6.name=DemocracyBot
 >>>>>>> parent of 63afe63... Lab 5 UPDATE
+=======
+target6.name=DemocracyBot
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 target6.naviview.expanded=true
 target6.showInterface=false
 target6.type=ClassTarget
 target6.typeParameters=
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -246,12 +278,18 @@ target6.width=120
 target6.x=270
 target6.y=310
 >>>>>>> parent of 63afe63... Lab 5 UPDATE
+=======
+target6.width=120
+target6.x=270
+target6.y=310
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 target7.height=50
 target7.name=DangerousBot
 target7.naviview.expanded=true
 target7.showInterface=false
 target7.type=ClassTarget
 target7.typeParameters=
+<<<<<<< HEAD
 <<<<<<< HEAD
 target7.width=150
 target7.x=10
@@ -265,11 +303,17 @@ target7.width=110
 target7.x=260
 target7.y=130
 >>>>>>> parent of 63afe63... Lab 5 UPDATE
+=======
+target7.width=110
+target7.x=260
+target7.y=130
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 target8.height=50
 target8.name=Data
 target8.showInterface=false
 target8.type=ClassTarget
 target8.typeParameters=
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -281,12 +325,18 @@ target8.width=80
 target8.x=170
 target8.y=190
 >>>>>>> parent of 63afe63... Lab 5 UPDATE
+=======
+target8.width=80
+target8.x=170
+target8.y=190
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 target9.height=50
 target9.name=TreasureHuntDriver
 target9.naviview.expanded=true
 target9.showInterface=false
 target9.type=ClassTarget
 target9.typeParameters=
+<<<<<<< HEAD
 <<<<<<< HEAD
 target9.width=160
 target9.x=50
@@ -307,6 +357,11 @@ target9.y=370
 >>>>>>> 70c9d1ee7408ba4a73a7047083f3e6f7e391c982
 =======
 >>>>>>> 70c9d1ee7408ba4a73a7047083f3e6f7e391c982
+=======
+target9.width=150
+target9.x=10
+target9.y=230
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 =======
 target9.width=150
 target9.x=10

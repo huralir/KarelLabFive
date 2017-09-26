@@ -3,6 +3,7 @@ comment0.target=DemocracyBot
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 comment0.text=\n\ @author\ \:\ \ D.\ Appel\n
 comment1.params=
 comment1.target=void\ fixBallots()
@@ -24,6 +25,12 @@ numComments=5
 >>>>>>> 70c9d1ee7408ba4a73a7047083f3e6f7e391c982
 =======
 >>>>>>> 70c9d1ee7408ba4a73a7047083f3e6f7e391c982
+=======
+comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
+comment1.params=
+comment1.target=void\ fixBallots()
+numComments=2
+>>>>>>> parent of 63afe63... Lab 5 UPDATE
 =======
 comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
 comment1.params=
