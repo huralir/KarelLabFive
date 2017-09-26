@@ -1,4 +1,4 @@
-package KarelLabFive._archive;
+package _archive;
 
 
 import kareltherobot.*;
